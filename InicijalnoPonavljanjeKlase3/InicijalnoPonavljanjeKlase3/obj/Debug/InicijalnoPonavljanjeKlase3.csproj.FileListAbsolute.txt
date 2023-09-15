@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\InicijalnoPonavljanjeKlase3\InicijalnoPonavljanjeKlase3\bin\Debug\InicijalnoPonavljanjeKlase3.exe.config
+C:\Users\HP\source\repos\InicijalnoPonavljanjeKlase3\InicijalnoPonavljanjeKlase3\bin\Debug\InicijalnoPonavljanjeKlase3.exe
+C:\Users\HP\source\repos\InicijalnoPonavljanjeKlase3\InicijalnoPonavljanjeKlase3\bin\Debug\InicijalnoPonavljanjeKlase3.pdb
+C:\Users\HP\source\repos\InicijalnoPonavljanjeKlase3\InicijalnoPonavljanjeKlase3\obj\Debug\InicijalnoPonavljanjeKlase3.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\InicijalnoPonavljanjeKlase3\InicijalnoPonavljanjeKlase3\obj\Debug\InicijalnoPonavljanjeKlase3.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\InicijalnoPonavljanjeKlase3\InicijalnoPonavljanjeKlase3\obj\Debug\InicijalnoPonavljanjeKlase3.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\InicijalnoPonavljanjeKlase3\InicijalnoPonavljanjeKlase3\obj\Debug\InicijalnoPonavljanjeKlase3.exe
+C:\Users\HP\source\repos\InicijalnoPonavljanjeKlase3\InicijalnoPonavljanjeKlase3\obj\Debug\InicijalnoPonavljanjeKlase3.pdb
